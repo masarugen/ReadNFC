@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">ReadNFC</string>
+    <string name="menu_settings">Settings</string>
+    <string name="none_idm">NFC Not Found!</string>
+
+</resources>
